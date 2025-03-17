@@ -1,0 +1,23 @@
+# Core dependencies
+llama-cpp-python
+fastapi
+uvicorn
+openai
+
+# Optional tools for AI development
+numpy
+pandas
+scipy
+scikit-learn
+torch
+transformers
+tqdm
+
+# Web and API interaction
+requests
+beautifulsoup4
+selenium
+
+# Database
+psycopg2
+SQLAlchemy
