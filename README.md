@@ -88,4 +88,10 @@ uvicorn main:app --reload
 
 ---
 
+## TLDR: Commands to run all components
+
+- **"Local llama2 LLM"** → ollama run llama2
+- **"FastAPI"** → uvicorn main:app --reload
+- **"NextJS Frontend"** → npm run dev
+
 Now you're ready to develop and run your AI assistant! 🚀
