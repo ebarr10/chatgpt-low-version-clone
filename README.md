@@ -1,5 +1,8 @@
 # personal-assistant-development
 
+https://github.com/user-attachments/assets/17180954-40e6-4abe-9c84-d84e55201af0
+
+
 # Setting Up Your Development Environment (Windows)
 
 ## Prerequisites
